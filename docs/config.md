@@ -8,7 +8,7 @@
 
 `firebase.json`:
 
-```json{3}
+```json
 {
   "hosting": {
     "public": "./docs/.vuepress/dist",
@@ -19,7 +19,7 @@
 
 `.firebaserc`:
 
-```json{3}
+```json
 {
   "projects": {
     "default": "<YOUR_FIREBASE_ID>"
