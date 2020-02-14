@@ -1,6 +1,6 @@
 # Example Config Route
 
-## [#](#google-firebase) Google Firebase
+## [#](https://console.firebase.google.com) Google Firebase
 
 1.  Make sure you have [firebase-tools](https://www.npmjs.com/package/firebase-tools)installed.
 
