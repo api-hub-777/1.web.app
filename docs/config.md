@@ -1,4 +1,4 @@
-# Example Config Route
+# Example Config Route v1
 
 ## [#](https://console.firebase.google.com) Google Firebase
 
