@@ -1,3 +1,4 @@
+<vue-cmp import="src/components/notes"><log-notes page-header-path="my-notes"/></vue-cmp>
 # Example Config Route v1
 
 ## [#](https://console.firebase.google.com) Google Firebase
@@ -35,9 +36,9 @@
 
 ## My Notes :
 
-<vue-cmp><log-notes-inst page-header-path="my-notes"/></vue-cmp>
+<vue-cmp import="src/components/notes"><log-notes page-header-path="my-notes"/></vue-cmp>
 
-<vue-cmp>
+<vue-cmp import="quasar">
   <q-btn round size="sm" color="accent" @click="showNotif('bottom')">
             <q-icon name="arrow_downward" />
    </q-btn>
