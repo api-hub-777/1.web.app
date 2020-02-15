@@ -35,11 +35,11 @@
 
 ## My Notes :
 
-<cmp><log-notes-inst page-header-path="my-notes"/></cmp>
+<vue-cmp><log-notes-inst page-header-path="my-notes"/></vue-cmp>
 
-<cmp>
+<vue-cmp>
   <q-btn round size="sm" color="accent" @click="showNotif('bottom')">
             <q-icon name="arrow_downward" />
    </q-btn>
-</cmp>
+</vue-cmp>
 
