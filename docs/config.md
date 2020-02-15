@@ -28,3 +28,8 @@
 ```
 
 1.  After running `yarn docs:build` or `npm run docs:build`, deploy with the command `firebase deploy`.
+
+## My Notes :
+
+<log-notes-inst page-header-path="my-notes"/>
+
