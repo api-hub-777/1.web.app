@@ -35,9 +35,11 @@
 
 ## My Notes :
 
-<log-notes-inst page-header-path="my-notes"/>
+<cmp><log-notes-inst page-header-path="my-notes"/></cmp>
 
-<q-btn round size="sm" color="accent" @click="showNotif('bottom')">
+<cmp>
+  <q-btn round size="sm" color="accent" @click="showNotif('bottom')">
             <q-icon name="arrow_downward" />
-          </q-btn>
+   </q-btn>
+</cmp>
 
