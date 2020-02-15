@@ -26,6 +26,10 @@
   }
 }
 ```
+<section>
+  <h1>Heading</h1>
+  <p>Bunch of awesome content</p>
+</section>
 
 1.  After running `yarn docs:build` or `npm run docs:build`, deploy with the command `firebase deploy`.
 
