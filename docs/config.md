@@ -33,3 +33,7 @@
 
 <log-notes-inst page-header-path="my-notes"/>
 
+<q-btn round size="sm" color="accent" @click="showNotif('bottom')">
+            <q-icon name="arrow_downward" />
+          </q-btn>
+
