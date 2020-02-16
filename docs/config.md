@@ -1,7 +1,7 @@
 <vue-cmp import="src/components/notes"><log-notes page-header-path="my-notes"/></vue-cmp>
 
 <vue-cmp>
-   <q-btn round size="sm" color="accent" class="q-pa-md" @click="showNotif('bottom')">
+   <q-btn round size="sm" color="accent" class="q-pa-md" @click="clg(this)">
             Click me I
    </q-btn>
 </vue-cmp>
