@@ -1,4 +1,10 @@
 <vue-cmp import="src/components/notes"><log-notes page-header-path="my-notes"/></vue-cmp>
+<vue-cmp>
+  <q-btn round size="sm" color="accent" @click="showNotif('bottom')">
+            Click me I
+   </q-btn>
+</vue-cmp>
+
 # Example Config Route v1
 
 ## [#](https://console.firebase.google.com) Google Firebase
@@ -38,9 +44,9 @@
 
 <vue-cmp import="src/components/notes"><log-notes page-header-path="my-notes"/></vue-cmp>
 
-<vue-cmp type="QBtn">
+<vue-cmp>
   <q-btn round size="sm" color="accent" @click="showNotif('bottom')">
-            <q-icon name="arrow_downward" />
+            Click me II
    </q-btn>
 </vue-cmp>
 
