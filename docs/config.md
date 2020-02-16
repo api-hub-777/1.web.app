@@ -38,7 +38,7 @@
 
 <vue-cmp import="src/components/notes"><log-notes page-header-path="my-notes"/></vue-cmp>
 
-<vue-cmp import="quasar">
+<vue-cmp type="QBtn">
   <q-btn round size="sm" color="accent" @click="showNotif('bottom')">
             <q-icon name="arrow_downward" />
    </q-btn>
