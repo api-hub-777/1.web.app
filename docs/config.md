@@ -47,7 +47,7 @@
 
 <vue-cmp>
    <q-btn round size="sm" color="accent" @click="showNotif('bottom')">
-            Click me I
+            Click me II
    </q-btn>
 </vue-cmp>
 
