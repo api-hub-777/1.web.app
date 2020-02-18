@@ -1,7 +1,7 @@
 <div class="q-pa-xl" vue-cmp-wrapper>
 <vue-cmp import="src/components/notes"><log-notes id="notes-1" page-header-path="my-notes"/></vue-cmp>
 </div>  
-<div class="flex-center" vue-cmp-wrapper>
+<div class="row flex-center" vue-cmp-wrapper>
 <vue-cmp>
    <q-btn round size="sm" color="accent" class="q-pa-md" @click="clg" >
             Click me I
