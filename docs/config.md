@@ -45,7 +45,6 @@
 
 ## My Notes :
 
-<vue-cmp import="src/components/notes"><notes/></vue-cmp>
 
 <vue-cmp>
    <q-btn round size="sm" color="accent" @click="clg">
