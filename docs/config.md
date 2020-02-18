@@ -1,5 +1,5 @@
 <div class="q-pa-xl">
-<vue-cmp import="src/components/notes"><log-notes page-header-path="my-notes"/></vue-cmp>
+<vue-cmp import="src/components/notes"><log-notes id="notes-1" page-header-path="my-notes"/></vue-cmp>
 </div>  
 <div class="flex-center">
 <vue-cmp>
