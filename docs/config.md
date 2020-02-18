@@ -1,11 +1,13 @@
+<div class="q-pa-xl">
 <vue-cmp import="src/components/notes"><log-notes page-header-path="my-notes"/></vue-cmp>
-
+</div>  
+<div class="flex-center">
 <vue-cmp>
    <q-btn round size="sm" color="accent" class="q-pa-md" @click="clg">
             Click me I
    </q-btn>
 </vue-cmp>
-
+</div>
 # Example Config Route v1
 
 ## [#](https://console.firebase.google.com) Google Firebase
