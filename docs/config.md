@@ -27,17 +27,17 @@ Can be found [here](https://quasarframework.github.io/quasar-ui-qmarkdown/exampl
 ### The Quasar component sample: 
 <div class="fit row flex-center" vue-cmp-wrapper>
  <vue-cmp>
-    <q-btn round size="lg" color="accent" @click="clg">
+    <q-btn  class="q-pa-sm" round size="lg" color="accent" @click="clg">
              Click me II
     </q-btn>
  </vue-cmp>
 </div>
 
-## [ Style -> Prism ](https://prismjs.com)
-  ### Examples
-  Can be found [here](https://quasarframework.github.io/quasar-ui-qmarkdown/examples).
+### [ Style -> Prism ](https://prismjs.com)
 
-## [#](https://console.firebase.google.com) Google Firebase
+## Installation :
+
+### [Google Firebase](https://console.firebase.google.com)
 
 
 1.  Make sure you have [firebase-tools](https://www.npmjs.com/package/firebase-tools)installed.
@@ -60,7 +60,7 @@ Can be found [here](https://quasarframework.github.io/quasar-ui-qmarkdown/exampl
 ```json
 {
   "projects": {
-    "default": "<YOUR_FIREBASE_ID/>"
+    "default": "%3CYOUR_FIREBASE_ID%2F%3E"
   }
 }
 ```
