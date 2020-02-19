@@ -30,7 +30,9 @@ Can be found [here](https://quasarframework.github.io/quasar-ui-qmarkdown/exampl
  </vue-cmp>
 </div>
 
-### [ Style -> Prism ](https://prismjs.com)
+### Style :
+
+ [ Prism ](https://prismjs.com)
 
 ## Installation :
 
