@@ -33,6 +33,10 @@ Can be found [here](https://quasarframework.github.io/quasar-ui-qmarkdown/exampl
  </vue-cmp>
 </div>
 
+## [ Style -> Prism ](https://prismjs.com)
+  ### Examples
+  Can be found [here](https://quasarframework.github.io/quasar-ui-qmarkdown/examples).
+
 ## [#](https://console.firebase.google.com) Google Firebase
 
 
@@ -56,7 +60,7 @@ Can be found [here](https://quasarframework.github.io/quasar-ui-qmarkdown/exampl
 ```json
 {
   "projects": {
-    "default": "<YOUR_FIREBASE_ID>"
+    "default": "<YOUR_FIREBASE_ID/>"
   }
 }
 ```
