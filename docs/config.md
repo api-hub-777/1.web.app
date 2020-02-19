@@ -24,7 +24,7 @@ Can be found [here](https://quasarframework.github.io/quasar-ui-qmarkdown/exampl
 ### The Quasar component sample: 
 <div class="fit row flex-center" vue-cmp-wrapper>
  <vue-cmp>
-    <q-btn  class="q-pa-sm" rounded size="lg" color="accent" @click="clg">
+    <q-btn  class="q-py-sm q-px-md" rounded size="lg" color="accent" @click="clg">
              Click me II
     </q-btn>
  </vue-cmp>
