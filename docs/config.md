@@ -35,7 +35,7 @@ Can be found [here](https://quasarframework.github.io/quasar-ui-qmarkdown/exampl
  </vue-cmp>
 </div>
 
-### Style :
+### Code style :
 
- [ Prism ](https://prismjs.com)
+      From [ Prism ](https://prismjs.com)
 
