@@ -9,6 +9,8 @@
 </vue-cmp>
 </div>
 
+Here are some services limits by the [Spark Plan](https://firebase.google.com/pricing?authuser=0).Thank you for your compassion.
+
 ## It use Markdown as a Quasar component
 
  QMarkdown is a Quasar component as well as a [Quasar App Extension](https://v1.quasar.dev/app-extensions/introduction).
@@ -24,7 +26,6 @@ Can be found [here](https://quasarframework.github.io/quasar-ui-qmarkdown/exampl
 
 ## [#](https://console.firebase.google.com) Google Firebase
 
-[Spark Plan](https://firebase.google.com/pricing?authuser=0)
 
 1.  Make sure you have [firebase-tools](https://www.npmjs.com/package/firebase-tools)installed.
 
