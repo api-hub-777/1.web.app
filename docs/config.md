@@ -12,13 +12,15 @@
 ## It use Markdown as a Quasar component
 
  QMarkdown is a Quasar component as well as a [Quasar App Extension](https://v1.quasar.dev/app-extensions/introduction).
- 
  If you don't know how to use Markdown or need a refresher,
  this site is recommended: [Markdown Guide](https://www.markdownguide.org/).
  
- # Interactive Demo
+ ### Interactive Demo
 Can be found [here](https://quasarframework.github.io/quasar-ui-qmarkdown/demo).
- 
+
+ ### Examples
+Can be found [here](https://quasarframework.github.io/quasar-ui-qmarkdown/examples).
+
  
 # Example Config Route v1
 
@@ -64,7 +66,4 @@ Can be found [here](https://quasarframework.github.io/quasar-ui-qmarkdown/demo).
    </q-btn>
 </vue-cmp>
 
-   <q-btn round size="sm" color="accent" @click="clg">
-            Click me II
-   </q-btn>
 
