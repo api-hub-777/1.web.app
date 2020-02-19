@@ -10,7 +10,8 @@
 </div>
 ::: warning
 
-Here are some **services limits** by the [Spark Plan](https://firebase.google.com/pricing?authuser=0).
+Here are some **services limits** by the [Spark Plan](https://firebase.google.com/pricing?authuser=0)
+.
 
 Thank you for your compassion.
 
