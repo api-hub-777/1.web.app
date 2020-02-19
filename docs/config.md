@@ -67,7 +67,9 @@ Can be found [here](https://quasarframework.github.io/quasar-ui-qmarkdown/exampl
 </vue-cmp>
 
 ### Proudly sponsored by:
-
+   <q-btn round size="sm" color="accent" @click="clg">
+            Click me II
+   </q-btn>
 <table>
   <tbody>
     <tr>
