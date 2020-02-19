@@ -8,17 +8,26 @@ Here are some **services limits** by the **firebase -** [Spark Plan](https://fir
 
 :::
 
-## It use Markdown as a Quasar component
+## It use Markdown as a Quasar component with Quasar's primitives
 
  QMarkdown is a Quasar component as well as a [Quasar App Extension](https://v1.quasar.dev/app-extensions/introduction).
  If you don't know how to use Markdown or need a refresher,
  this site is recommended: [Markdown Guide](https://www.markdownguide.org/).
  
- ### Interactive Demo
+### Interactive Demo
 Can be found [here](https://quasarframework.github.io/quasar-ui-qmarkdown/demo).
 
- ### Examples
+### Examples
 Can be found [here](https://quasarframework.github.io/quasar-ui-qmarkdown/examples).
+
+### The Quasar component sample: 
+<div class="fit row flex-center" vue-cmp-wrapper>
+ <vue-cmp>
+    <q-btn round size="sm" color="accent" @click="clg">
+             Click me II
+    </q-btn>
+ </vue-cmp>
+</div>
 
 ## [#](https://console.firebase.google.com) Google Firebase
 
@@ -51,14 +60,3 @@ Can be found [here](https://quasarframework.github.io/quasar-ui-qmarkdown/exampl
   <h1>Heading</h1>
   <p>Bunch of awesome content</p>
 </section>
-
-1.  After running `yarn docs:build` or `npm run docs:build`, deploy with the command `firebase deploy`.
-
-## My Notes :
-
-
-<vue-cmp>
-   <q-btn round size="sm" color="accent" @click="clg">
-            Click me II
-   </q-btn>
-</vue-cmp>
