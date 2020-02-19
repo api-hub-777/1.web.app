@@ -59,7 +59,7 @@ Can be found [here](https://quasarframework.github.io/quasar-ui-qmarkdown/exampl
 ```json
 {
   "projects": {
-    "default": "‹YOUR_FIREBASE_ID›"
+    "default": "〈‹YOUR_FIREBASE_ID›〉"
   }
 }
 ```
