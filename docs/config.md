@@ -21,7 +21,7 @@ Can be found [here](https://quasarframework.github.io/quasar-ui-qmarkdown/demo).
 ### Examples
 Can be found [here](https://quasarframework.github.io/quasar-ui-qmarkdown/examples).
 
-### The Quasar component sample: 
+### The Quasar component sample: #(see debug console)
 <div class="fit row flex-center" vue-cmp-wrapper>
  <vue-cmp>
     <q-btn  class="q-py-sm q-px-md" rounded size="lg" color="accent" @click="clg">
