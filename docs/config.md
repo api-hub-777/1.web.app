@@ -1,13 +1,5 @@
-<div class="q-pa-xl" vue-cmp-wrapper>
- <vue-cmp import="src/components/notes"><notes/></vue-cmp>
-</div>  
-<div class="row flex-center" vue-cmp-wrapper>
-<vue-cmp>
-   <q-btn round size="sm" color="accent" class="q-pa-md" @click="clg" >
-            Click me I
-   </q-btn>
-</vue-cmp>
-</div>
+## Config :
+
 ::: warning
 
 Here are some **services limits** by the **firebase -** [Spark Plan](https://firebase.google.com/pricing?authuser=0)**.**
@@ -15,6 +7,7 @@ Here are some **services limits** by the **firebase -** [Spark Plan](https://fir
 ***Thank you for your compassion.***
 
 :::
+
 ## It use Markdown as a Quasar component
 
  QMarkdown is a Quasar component as well as a [Quasar App Extension](https://v1.quasar.dev/app-extensions/introduction).
@@ -26,7 +19,6 @@ Can be found [here](https://quasarframework.github.io/quasar-ui-qmarkdown/demo).
 
  ### Examples
 Can be found [here](https://quasarframework.github.io/quasar-ui-qmarkdown/examples).
-
 
 ## [#](https://console.firebase.google.com) Google Firebase
 
