@@ -21,10 +21,10 @@ Can be found [here](https://quasarframework.github.io/quasar-ui-qmarkdown/demo).
  ### Examples
 Can be found [here](https://quasarframework.github.io/quasar-ui-qmarkdown/examples).
 
- 
-# Example Config Route v1
 
 ## [#](https://console.firebase.google.com) Google Firebase
+
+[Spark Plan](https://firebase.google.com/pricing?authuser=0)
 
 1.  Make sure you have [firebase-tools](https://www.npmjs.com/package/firebase-tools)installed.
 
