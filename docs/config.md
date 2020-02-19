@@ -9,7 +9,7 @@
 </vue-cmp>
 </div>
 
-## It use Markdown as a Quasar component
+## [It use Markdown as a Quasar component](#example-Containers)
 
  QMarkdown is a Quasar component as well as a [Quasar App Extension](https://v1.quasar.dev/app-extensions/introduction).
  If you don't know how to use Markdown or need a refresher,
@@ -66,4 +66,82 @@ Can be found [here](https://quasarframework.github.io/quasar-ui-qmarkdown/exampl
    </q-btn>
 </vue-cmp>
 
+### Proudly sponsored by:
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="middle">
+        <a href="https://truelogic.com" target="_blank">
+          <img width="300px" src="https://cdn.quasar.dev/sponsors/truelogic.png">
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="http://campuscloudservices.com" target="_blank">
+          <img width="222px" src="https://cdn.quasar.dev/sponsors/campus-cloud-services.png">
+        </a>
+      </td>
+    </tr>
+    <tr></tr>
+    <tr>
+      <td align="center" valign="middle">
+        <a href="https://www.jugglestreet.com" target="_blank">
+          <img width="222px" src="https://cdn.quasar.dev/sponsors/juggle-street.png">
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="http://comcomservices.com" target="_blank">
+          <img width="222px" src="https://cdn.quasar.dev/sponsors/com-com-services.png">
+        </a>
+      </td>
+    </tr>
+    <tr></tr>
+    <tr>
+      <td align="center" valign="middle">
+        <a href="http://www.kalisio.com" target="_blank">
+          <img width="222px" src="https://cdn.quasar.dev/sponsors/kalisio.png">
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="http://platformpurple.com" target="_blank">
+          <img width="222px" src="https://cdn.quasar.dev/sponsors/platform-purple.png">
+        </a>
+      </td>
+    </tr>
+    <tr></tr>
+    <tr>
+      <td align="center" valign="middle">
+        <a href="http://www.bgasoft.com" target="_blank">
+          <img width="222px" src="https://cdn.quasar.dev/sponsors/bgasoft.png">
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://www.letsbutterfly.com/" target="_blank">
+          <img width="170px" src="https://cdn.quasar.dev/sponsors/letsbutterfly.png">
+        </a>
+      </td>
+    </tr>
+    <tr></tr>
+    <tr>
+      <td align="center" valign="middle">
+        <a href="https://www.projectfinance.io/" target="_blank">
+          <img width="222px" height="150px" src="https://cdn.quasar.dev/sponsors/project-finance.png">
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://dreamonkey.com/" target="_blank">
+          <img width="222px" height="150px" src="https://cdn.quasar.dev/sponsors/dreamonkey.png">
+        </a>
+      </td>
+    </tr>
+    <tr></tr>
+    <tr>
+      <td align="center" valign="middle">
+        <a href="https://ib-langenthal.ch/" target="_blank">
+          <img width="222px" height="150px" src="https://cdn.quasar.dev/sponsors/ib-langenthal.svg">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
