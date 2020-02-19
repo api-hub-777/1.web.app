@@ -1,8 +1,3 @@
-<div class="q-pa-xl" vue-cmp-wrapper>
- <vue-cmp import="src/components/notes"><notes/></vue-cmp>
-</div>  
-
-
 ## My Notes :
 
 ::: warning
