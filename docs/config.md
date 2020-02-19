@@ -8,9 +8,9 @@
    </q-btn>
 </vue-cmp>
 </div>
-
-Here are some services limits by the [Spark Plan](https://firebase.google.com/pricing?authuser=0).Thank you for your compassion.
-
+::: warning
+Here are some ***services limits*** by the `[Spark Plan]`(https://firebase.google.com/pricing?authuser=0).Thank you for your compassion.
+:::
 ## It use Markdown as a Quasar component
 
  QMarkdown is a Quasar component as well as a [Quasar App Extension](https://v1.quasar.dev/app-extensions/introduction).
