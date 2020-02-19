@@ -37,7 +37,7 @@ Can be found [here](https://quasarframework.github.io/quasar-ui-qmarkdown/exampl
 
 ### Code style :
 <p>   From</p>
-[          Prism](https://prismjs.com)
+[Prism](https://prismjs.com)
 
 
 
