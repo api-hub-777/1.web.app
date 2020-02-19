@@ -22,7 +22,7 @@ Can be found [here](https://quasarframework.github.io/quasar-ui-qmarkdown/demo).
 Can be found [here](https://quasarframework.github.io/quasar-ui-qmarkdown/examples).
 
 ### The Quasar component sample: 
-      *(see debug console)*
+      see debug console
       
 <div class="fit row flex-center" vue-cmp-wrapper>
  <vue-cmp>
