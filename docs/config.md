@@ -39,7 +39,7 @@ Can be found [here](https://quasarframework.github.io/quasar-ui-qmarkdown/exampl
 ### [Google Firebase](https://console.firebase.google.com)
 
 
-1.  Make sure you have [firebase-tools](https://www.npmjs.com/package/firebase-tools)installed.
+1.  Make sure you have [firebase-tools](https://www.npmjs.com/package/firebase-tools) installed.
 
 2.  Create `firebase.json` and `.firebaserc` at the root of your project with the following content:
 
