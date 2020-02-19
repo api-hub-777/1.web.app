@@ -26,6 +26,10 @@ Can be found [here](https://quasarframework.github.io/quasar-ui-qmarkdown/exampl
 :::
        see debug console
 :::
+
+::: info
+only for **Quasar App**
+:::
       
 <div class="fit row flex-center" vue-cmp-wrapper>
  <vue-cmp>
