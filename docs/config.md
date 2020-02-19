@@ -9,7 +9,7 @@
 </vue-cmp>
 </div>
 
-## [It use Markdown as a Quasar component](#example-Containers)
+## [It use Markdown as a Quasar component](#it-use-markdown-as-a-quasar-component)
 
  QMarkdown is a Quasar component as well as a [Quasar App Extension](https://v1.quasar.dev/app-extensions/introduction).
  If you don't know how to use Markdown or need a refresher,
