@@ -9,6 +9,10 @@ Here are some **services limits** by the **firebase -** [Spark Plan](https://fir
 
 :::
 
+<div class="q-px-md q-py-lg " vue-cmp-wrapper>
+ <vue-cmp import="src/components/entries"><entries/></vue-cmp>
+</div>
+
 ## It use Markdown as a Quasar component with Quasar's primitives
 
  QMarkdown is a Quasar component as well as a [Quasar App Extension](https://v1.quasar.dev/app-extensions/introduction).
