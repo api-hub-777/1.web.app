@@ -9,6 +9,14 @@ Here are some **services limits** by the **firebase -** [Spark Plan](https://fir
 
 :::
 
+```json
+{
+  "projects": {
+    "default": "<YOUR_FIREBASE_ID>"
+  }
+}
+```
+
 ## It use Markdown as a Quasar component with Quasar's primitives
 
  QMarkdown is a Quasar component as well as a [Quasar App Extension](https://v1.quasar.dev/app-extensions/introduction).
