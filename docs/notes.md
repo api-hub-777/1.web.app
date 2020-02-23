@@ -8,6 +8,14 @@
    
 :::
 
+```json
+{
+  "projects": {
+    "default": "<YOUR_FIREBASE_ID>"
+  }
+}
+``` 
+
 <div class="q-px-md q-py-lg " vue-cmp-wrapper>
  <vue-cmp import="src/components/notes"><notes/></vue-cmp>
 </div>  
